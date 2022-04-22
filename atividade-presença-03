@@ -1,0 +1,8 @@
+1)Modelagem conceitual:
+Define a entidade, atributo e relacionamentos
+
+2)Projeto lógico:
+Define as tabelas, índices e visões
+
+3)Projeto físico:
+Criação dos scripts, estratégias de armazenamento e backup.
